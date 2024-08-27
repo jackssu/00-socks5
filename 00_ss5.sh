@@ -1,13 +1,13 @@
 #!/bin/bash
 export LC_ALL=C
-export UUID=${UUID:-'39e8b439-06be-4783-ad52-6357fc5e8743'}         
+export UUID=${UUID:-'69e8b439-06be-4783-ad52-6357fc5e8743'}         
 export NEZHA_SERVER=${NEZHA_SERVER:-''}             
 export NEZHA_PORT=${NEZHA_PORT:-'5555'}            
 export NEZHA_KEY=${NEZHA_KEY:-''}
-export PASSWORD=${PASSWORD:-'admin'} 
+export PASSWORD=${PASSWORD:-'addmin'} 
 export PORT=${PORT:-'0000'}
-export SOCKSU=${SOCKSU:-'oneforall'}
-export SOCKSP=${SOCKSP:-'allforone'}
+export SOCKSU=${SOCKSU:-'1qaz2WSX'}
+export SOCKSP=${SOCKSP:-'1qaz2WSX'}
 export STCP=${STCP:-'0000'}
 export SUDP=${SUDP:-'0000'}  
 USERNAME=$(whoami)
